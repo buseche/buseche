@@ -8,7 +8,12 @@ Here's the languages what i handle
 
 Also, here's the frameworks and tools what i used:
 
-![Laravel](https://icons8.com/icon/lRjcvhvtR81o/laravel) ![Symfony](https://icons8.com/icon/78295/symfony) ![CodeIgniter](https://icons8.com/icon/r4UrHt1gLC2t/codeigniter-is-an-open-source-software-rapid-development-web-framework) ![Django](https://icons8.com/icon/qV-JzWYl9dzP/django) ![Docker](https://icons8.com/icon/cdYUlRaag9G9/docker) ![Zabbix](https://assets.zabbix.com/img/logo/zabbix_logo_313x82.png)
+![Laravel](![imagen](https://github.com/buseche/buseche/assets/19533825/ac688bd5-f04e-4636-a2e7-60f9e9db9de2)
+) ![Symfony](![imagen](https://github.com/buseche/buseche/assets/19533825/39a702c3-f322-404a-85c1-2da082b62ca5)
+) ![CodeIgniter](![imagen](https://github.com/buseche/buseche/assets/19533825/e36f0ac2-ca26-48cc-bab3-5e592d797375)
+) ![Django](![imagen](https://github.com/buseche/buseche/assets/19533825/2be39e94-f612-4580-98d4-0c041d3c5629)
+) ![Docker](![imagen](https://github.com/buseche/buseche/assets/19533825/00705efe-5c61-4d52-a2b8-9820289f16f8)
+) ![Zabbix](https://assets.zabbix.com/img/logo/zabbix_logo_313x82.png)
 
 Also, i'm certified as [Link](https://mikrotik.com/training/certificates/b215442cd1a68367a339 "MikroTik Certified Network Associate").
 Here's a list with my all projects
@@ -23,7 +28,8 @@ Here's a list with my all projects
 
 You can get more information here:
 
-[![LinkedIn](https://icons8.com/icon/13930/linkedin)](https://www.linkedin.com/in/buseche/)
+[![LinkedIn](![imagen](https://github.com/buseche/buseche/assets/19533825/67f2ecce-e27f-4352-80a6-a5fcd373a093)
+)](https://www.linkedin.com/in/buseche/)
 
 
 
