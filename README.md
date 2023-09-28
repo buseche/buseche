@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hola 👋, soy Bryan.
 
-<!--
-**buseche/buseche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado desarrollador full stack con habilidades en **PHP**, **Bash**, **Docker** y más.
 
-Here are some ideas to get you started:
+## Habilidades 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes de programación**: PHP, Bash
+- **Infraestructura**: Docker
+- **Y más...**
+
+## Proyectos destacados 🏆
+
+- **Proyecto 1**: Descripción del proyecto 1. Este proyecto fue desarrollado utilizando PHP y Docker.
+- **Proyecto 2**: Descripción del proyecto 2. Este proyecto fue desarrollado utilizando Bash.
+
+## Contacto 📫
+
+Si deseas contactarme, puedes hacerlo a través de correo@ejemplo.com
+
+
