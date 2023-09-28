@@ -8,14 +8,9 @@ Here's the languages what i handle
 
 Also, here's the frameworks and tools what i used:
 
-![Laravel](![imagen](assets/icons8-laravel-96.png)
-) ![Symfony](![imagen](assets/icons8-symfony-96.png)
-) ![CodeIgniter](![imagen](assets/icons8-codeigniter-is-an-open-source-software-rapid-development-web-framework-96.png)
-) ![Django](![imagen](assets/icons8-django-a-high-level-python-web-framework-that-encourages-rapid-development-96.png)
-) ![Docker](![imagen](assets/icons8-docker-96.png)
-) ![Zabbix](https://assets.zabbix.com/img/logo/zabbix_logo_313x82.png)
+![Laravel](assets/icons8-laravel-96.png) ![Symfony](assets/icons8-symfony-96.png) ![CodeIgniter](assets/icons8-codeigniter-is-an-open-source-software-rapid-development-web-framework-96.png) ![Django](assets/icons8-django-a-high-level-python-web-framework-that-encourages-rapid-development-96.png) ![Docker](assets/icons8-docker-96.png) ![Zabbix](https://assets.zabbix.com/img/logo/zabbix_logo_313x82.png)
 
-Also, i'm certified as [Link](https://mikrotik.com/training/certificates/b215442cd1a68367a339 "MikroTik Certified Network Associate").
+Also, i'm certified as ![MikroTik Certified Network Associate](https://mikrotik.com/training/certificates/b215442cd1a68367a339 "MikroTik Certified Network Associate").
 Here's a list with my all projects
 
 ## Notable Projects 🏆
@@ -28,8 +23,7 @@ Here's a list with my all projects
 
 You can get more information here:
 
-[![LinkedIn](![imagen](assets/icons8-linkedin-96.png)
-)](https://www.linkedin.com/in/buseche/)
+[![LinkedIn](assets/icons8-linkedin-96.png)(https://www.linkedin.com/in/buseche/)
 
 
 
